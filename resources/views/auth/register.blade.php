@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -17,4 +17,4 @@
     <button type="submit" name="action" value="send">send</button>
     </form>
 </body>
-</html>>
+</html>
